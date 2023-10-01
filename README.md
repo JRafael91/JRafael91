@@ -23,13 +23,17 @@
 </div>
 
 ## 🚀 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRafael91&theme=material-palenight&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JRafael91&theme=material-palenight)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JRafael91&theme=material-palenight&show_icons=true" height="150" alt="Stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JRafael91&theme=material-palenight" height="150" alt="Streak graph"  />
+</div>
 <!---
 JRafael91/JRafael91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRafael91&theme=material-palenight&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JRafael91&theme=material-palenight)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=JRafael91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2)
 -->
